@@ -110,6 +110,7 @@ Tested 25 combinations of:
 - Hyperparameter Tuning: Systematic experiments help uncover the best configurations for performance and stability.
 ---
 🙋 About Me
+
 This project was completed as part of my MSc Data Science degree. I enjoy building smart, scalable solutions and learning how to make machine learning models not just accurate—but useful.
 
 🔗 LinkedIn | 📫 Email | 💼 Portfolio coming soon!
