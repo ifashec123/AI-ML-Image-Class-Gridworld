@@ -12,18 +12,18 @@
 1. 🖼️ **Image Classification using Convolutional Neural Networks (CNNs)**  
 2. 🚀 **Reinforcement Learning with Value Iteration & Q-Learning in a GridWorld environment**
 
-The project was completed as part of my Applied Machine Learning coursework and is designed to demonstrate practical implementations of supervised and reinforcement learning models, including performance enhancements, model evaluation, and parameter optimization.
+The project was completed as part of my Applied Machine Learning coursework and is designed to demonstrate practical implementations of supervised and reinforcement learning models, including performance enhancements, model evaluation, and parameter optimization. Below is a summary however the full report can be accessed [here](https://github.com/ifashec123/AI-ML-Image-Class-Gridworld/blob/main/MLreport.pdf)
 
 ---
 
 ## 📦 Contents
 | Module | Description |
 |--------|-------------|
-| `cnn_classification.py` | Image classification with CNNs using TensorFlow |
-| `cnn_regularized.py` | Improved CNN using data augmentation, L2 regularization, dropout, and early stopping |
-| `value_iteration.py` | Value Iteration implementation in a custom GridWorld |
-| `q_learning.py` | Q-Learning agent with policy learning and reward tracking |
-| `q_tuning.py` | Hyperparameter tuning for Q-Learning (γ, ε grid search) |
+| [`cnn_classification.py`](https://github.com/ifashec123/AI-ML-Image-Class-Gridworld/blob/main/Task1_code.ipynb) | Image classification with CNNs using TensorFlow |
+| [`cnn_regularized.py`](https://github.com/ifashec123/AI-ML-Image-Class-Gridworld/blob/main/Task1_code.ipynb) | Improved CNN using data augmentation, L2 regularization, dropout, and early stopping |
+| [`value_iteration.py`](https://github.com/ifashec123/AI-ML-Image-Class-Gridworld/blob/main/Task2_code.ipynb) | Value Iteration implementation in a custom GridWorld |
+| [`q_learning.py`](https://github.com/ifashec123/AI-ML-Image-Class-Gridworld/blob/main/Task2_code.ipynb) | Q-Learning agent with policy learning and reward tracking |
+| [`q_tuning.py](https://github.com/ifashec123/AI-ML-Image-Class-Gridworld/blob/main/Task2_code.ipynb) | Hyperparameter tuning for Q-Learning (γ, ε grid search) |
 
 ---
 
@@ -97,6 +97,9 @@ Tested 25 combinations of:
 ---
 
 ## 📂 Directory Structure
+- project report can be accessed [here](https://github.com/ifashec123/AI-ML-Image-Class-Gridworld/blob/main/MLreport.pdf)
+- Jupyter notebook for task 1 can be accessed [here](https://github.com/ifashec123/AI-ML-Image-Class-Gridworld/blob/main/Task1_code.ipynb)
+- Jupyter notebook for task 2 can be accessed [here](https://github.com/ifashec123/AI-ML-Image-Class-Gridworld/blob/main/Task2_code.ipynb)
 
 ---
 ## 💡 Lessons & Takeaways
